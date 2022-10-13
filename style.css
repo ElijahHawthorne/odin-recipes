@@ -1,0 +1,30 @@
+.title{
+    background-color: pink;
+    font-weight: 800;
+    text-align: center
+}
+
+.recipe{
+    background-color: rgb(215, 209, 209);
+    color:black;
+
+    font-weight: 600;
+    text-align: center;
+}
+
+.list{
+    background-color: rgb(215,209,209);
+    color:black;
+    
+}
+
+.small-title{
+    background-color:grey;
+    color: white;
+    font-weight: 800;
+    
+}
+img {
+    width: 500px;
+    height: auto;
+}
